@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Taxi App</string>
+    <string name="checking_credentials">Checking credentials...please wait...</string>
+    <string name="valid_credentials">Valid credentials found...logging you in...</string>
+    <string name="logged_in">Logged in successfully!</string>
+    <string name="logging_you_in">Busy logging you in...please wait...</string>
+    <string name="busy_registering">Busy registering user...please wait...</string>
+    <string name="passwords_same">Please make sure that your password and re-enter password is the same!</string>
+    <string name="successfully_registered">User successfully registered!</string>
+    <string name="enter_all_details">Please enter all details!</string>
+    <string name="enter_email">Please enter your email address first!</string>
+    <string name="reset_instructions">Busy sending reset instructions...please wait...</string>
+    <string name="reset_sent">Reset instructions sent to email address!</string>
+</resources>
